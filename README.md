@@ -1,13 +1,5 @@
----
-title: Animals
-emoji: 🐠
-colorFrom: purple
-colorTo: blue
-sdk: gradio
-sdk_version: 4.36.1
-app_file: app.py
-pinned: false
-license: apache-2.0
----
+# Try out [Here](https://pgeurin.github.io/catsvsdogs/) 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Transfer learning to distriguish cats from dogs with just 100 samples.
+
+Built on Pytorch and fastAI.
