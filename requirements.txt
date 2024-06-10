@@ -1,1 +1,1 @@
-fastai
+gradio==3.50
