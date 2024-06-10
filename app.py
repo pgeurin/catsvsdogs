@@ -24,8 +24,4 @@ label = gr.Label()
 examples = ['dog.jpg', 'cat.jpg', 'dunno.jpg']
 
 intf = gr.Interface(fn=classify_image, inputs=image, outputs=label, examples=examples)
-<<<<<<< HEAD
-intf.launch(share=True)
-=======
 intf.launch()
->>>>>>> ae666e7 (remove share=True)
